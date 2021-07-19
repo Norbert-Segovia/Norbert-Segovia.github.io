@@ -1,0 +1,101 @@
+body {
+  background-color: dimgrey;
+}
+.contenedor {
+  background-color: blue rgb(228, 228, 228);
+}
+header {
+  background-color: darkgreen;
+}
+nav {
+  background-color: darkgoldenrod;
+}
+section {
+  background-color: darkslateblue;
+}
+footer {
+  background-color: deepskyblue;
+}
+
+.bode1 {
+  border-style: dotted;
+}
+
+.borde2 {
+  border-style: dashed;
+}
+
+.borde3 {
+  border-style: solid;
+}
+
+.borde4 {
+  border-style: double;
+}
+
+.borde5 {
+  border-style: groove;
+}
+
+.borde6 {
+  border-style: ridge;
+}
+
+.borde7 {
+  border-style: inset;
+}
+.borde8 {
+  border-style: outset;
+}
+.borde9 {
+  border-style: none;
+}
+.borde10 {
+  border-style: hidden;
+}
+.borde11 {
+  border-style: dotted dashed solid double;
+}
+
+.borde12 {
+  border-style: dotted;
+  border-width: 10px;
+}
+
+.borde13 {
+  border-style: dashed;
+  border-width: medium;
+}
+
+.borde14 {
+  border-style: solid;
+  border-width: 10px 15px 4px 7px;
+}
+
+/*Aplicamos bordes cambiando su color*/
+.borde15 {
+  border-style: solid;
+  border-color: gainsboro;
+}
+.borde16 {
+  border-style: dashed;
+  border-color: honeydew green yellow palevioletred;
+}
+/*Aplicamos bordes solo aun lugar especifico*/
+.borde17 {
+  border-top-style: dashed;
+}
+.borde18 {
+  border-bottom-style: dotted;
+}
+.borde19 {
+  border-left-style: solid;
+}
+.borde20 {
+  border-right-style: double;
+}
+.borde21 {
+  border-style: solid;
+  border-width: 20px;
+  border-radius: 15px;
+}

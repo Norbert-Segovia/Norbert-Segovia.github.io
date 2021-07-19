@@ -1,0 +1,22 @@
+#menuprincipal {
+  color: firebrick;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+#titulo1 {
+  color: gold;
+  font-weight: bolder;
+}
+#titulo2 {
+  color: indigo;
+  font-weight: bolder;
+}
+#parrafo1 {
+  color: navy;
+  font-weight: bolder;
+}
+#parrafo2 {
+  color: orangered;
+  font-weight: bolder;
+}

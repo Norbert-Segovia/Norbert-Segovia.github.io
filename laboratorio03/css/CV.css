@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(181, 222, 255);
+}
+.contenedor {
+  background-color: white;
+  width: 700px;
+  height: 1000px;
+  margin: auto;
+}
+.titulo {
+  background-color: #bfbfbf;
+  width: 700px;
+  height: 90px;
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+h1 {
+  color: white;
+}

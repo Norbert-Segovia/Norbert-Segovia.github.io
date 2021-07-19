@@ -1,0 +1,44 @@
+/*link: el vinculo normal
+visited:cuando le has sido visitado
+hover:mouse esta sobre el vinculo
+actived: le das clic */
+a.vinculo1:link {
+  color: seagreen;
+}
+a.vinculo1:visited {
+  color: midnightblue;
+}
+a.vinculo1:hover {
+  color: magenta;
+}
+a.vinculo1:active {
+  color: maroon;
+}
+a.vinculo2:link {
+  text-decoration: none;
+}
+a.vinculo2:visited {
+  text-decoration: none;
+}
+a.vinulo2:hover {
+  text-decoration: none;
+}
+a.vinculo2:active {
+  text-decoration: none;
+}
+a.vinculo3:link,
+a.vinculo3:visited {
+  background-color: green;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+}
+a.vinculo3:hover,
+a.vinculo3:active {
+  background-color: red;
+}
+a.vinculo4:hover,
+a.vinculo4:active {
+  background-color: rgb(15, 15, 15);
+}

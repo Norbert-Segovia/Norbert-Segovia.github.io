@@ -1,0 +1,26 @@
+ul {
+  background-color: yellowgreen;
+  padding: 20px;
+  list-style-type: square;
+  list-style-type: inside;
+}
+ul li {
+  background-color: rgb(235, 191, 18);
+  padding: 3px;
+}
+ul li ul {
+  border-color: crimson;
+  padding: 5px;
+  list-style-type: circle;
+  list-style-position: outside;
+}
+ul li ul li {
+  background-color: darkblue;
+  margin: 3px;
+}
+
+ul li ul li ul li {
+  background-color: brown;
+  list-style-type: disc;
+  list-style-position: outside;
+}

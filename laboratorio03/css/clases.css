@@ -1,0 +1,14 @@
+.menu {
+  color: crimson;
+  font-size: larger;
+  font-weight: bolder;
+}
+.parrafo {
+  color: rgb(45, 196, 19);
+  font-style: italic;
+}
+.tituloparrafo {
+  color: darkslateblue;
+  font-weight: bolder;
+  font-size: larger;
+}

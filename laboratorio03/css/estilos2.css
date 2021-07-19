@@ -1,0 +1,107 @@
+/* esto es un comentario en CSS */
+/* Aplicaremos un estilo para darle color a la pagina */
+body {
+  background-color: rgb(167, 151, 146);
+}
+.contenedor {
+  background-color: palegreen;
+}
+.cabecera {
+  background-color: peru;
+}
+.menu {
+  background-color: rebeccapurple;
+}
+.cuerpo {
+  background-color: seagreen;
+}
+.pie {
+  background-color: steelblue;
+}
+/* Agregamos una imagen de fondo a un parrafo */
+.parrafoimagen {
+  background-image: url("/img/imagen1.jpg");
+}
+
+/* Agregamos un color de fondo con transparencia para los parrafos */
+.parrafotransparencia {
+  background-color: yellow;
+  opacity: 30%;
+  color: rgb(7, 7, 7);
+}
+
+/*Agrgamos una imagen de fondo en el fondo de un parrafo pero quiero que la imagen se repita*/
+
+.parrafoimagenrepetir {
+  background-image: url("/img/html5ycss3.png");
+}
+
+/*Agrgamos una imagen de fondo en el fondo de un parrafo pero quiero que la imagen se repita*/
+
+.parrafoimagennorepetir {
+  background-image: url("/img/html5ycss3.png");
+  background-repeat: no-repeat;
+}
+/*Agrgamos una imagen de fondo en el fondo de un parrafo, pero le cambiamos el tamño*/
+
+.parrafoimagentamaño {
+  background-image: url("/img/html5ycss3.png");
+  background-size: 20px;
+}
+
+/*Agrgamos una imagen de fondo en el fondo de un parrafo, pero le cambiamos el tamño*/
+.parrafoimagenrepetirhorizontal {
+  background-image: url("/img/html5ycss3.png");
+  background-repeat: repeat-x;
+  background-size: 30px;
+}
+
+/*Agrgamos una imagen de fondo en el fondo de un parrafo, pero quiero repetir la imagen de forma vertical*/
+
+.parrafoimagenrepetirvertical {
+  background-image: url("/img/html5ycss3.png");
+  background-repeat: repeat-y;
+  background-size: 30px;
+}
+.parrafoimagencentrar {
+  background-image: url("/img/html5ycss3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimagenizquierda {
+  background-image: url("/img/html5ycss3.png");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimagenderecha {
+  background-image: url("/img/html5ycss3.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimagensuperior {
+  background-image: url("/img/html5ycss3.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimageninferior {
+  background-image: url("/img/html5ycss3.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimageninferiorizquierda {
+  background-image: url("/img/html5ycss3.png");
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+.parrafoimagensuperiorderecha {
+  background-image: url("/img/html5ycss3.png");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}

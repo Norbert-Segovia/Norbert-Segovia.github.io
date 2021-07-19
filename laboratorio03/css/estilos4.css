@@ -1,0 +1,58 @@
+body {
+  background-color: powderblue;
+}
+
+.contenedor {
+  background-color: royalblue;
+}
+
+.caja1 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+}
+
+/*Agregar Margenes a cada etiqueta*/
+.caja2 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin-left: 40px;
+}
+.caja3 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin-right: 40px;
+}
+.caja4 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin-top: 40px;
+}
+.caja5 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin-bottom: 5px;
+}
+.caja6 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin: 20px 80px 30px 10px;
+}
+.caja7 {
+  background-color: skyblue;
+  border-style: solid;
+  border-width: 5px;
+  border-color: springgreen;
+  margin: auto;
+}
